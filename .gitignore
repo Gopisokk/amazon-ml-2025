@@ -1,0 +1,36 @@
+﻿# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+.venv/
+venv/
+.env
+.ipynb_checkpoints/
+.DS_Store
+
+# Data & artifacts (do not commit raw data)
+dataset/
+artifacts/
+features/
+meta/
+lvl0/
+logs/
+
+# Big arrays / models / caches
+*.npy
+*.npz
+*.pt
+*.pth
+*.bin
+*.ckpt
+*.h5
+*.onnx
+*.model
+*.jsonl
+
+# OS/editor junk
+*.swp
+*.swo
+Thumbs.db
