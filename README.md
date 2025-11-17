@@ -1,4 +1,4 @@
-<img width="1886" height="1019" alt="{9306F76D-E1BB-4381-AF2C-695E0BB1186A}" src="https://github.com/user-attachments/assets/944c6c5a-a6a1-49f1-8edf-b1bf0a0e8b4c" /># Smart Product Pricing — Amazon ML Challenge 2025
+# Smart Product Pricing — Amazon ML Challenge 2025
 
 Price prediction for e-commerce products using **text-only** features and a **lightweight 2-model ensemble**.
 
